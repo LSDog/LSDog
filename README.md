@@ -1,7 +1,9 @@
 # HI THERE, I'm LSDog !  
-*QQ 2509863159*  
-*wbsite www.lsdog.fun*  
-· 哈喽！ 这里是LSDog / 笑天犬 / 或者叫我蕾丝狗也行~  
 
-· 现在正在学着做bukkit插件呢，如果需要一些小插件也可以来找我帮你写...  
-· 欢迎来我的服务器 [LSDog.fun] 玩~ (有的时候不会开噢)  
+· 哈喽！ 这里是 **LSDog / 笑天犬** 或者叫我蕾丝狗也行~  
+
+· 会写 bukkit 插件  
+· 欢迎来我的mc服务器 `LSDog.fun` 玩！ (但是其实大部分时候都不会开)
+
+<img src="https://user-images.githubusercontent.com/61925478/221407693-5d898298-b3ab-4b24-b083-d90d4eebc379.png" width="128"/>
+这是小杏由里👆
