@@ -9,6 +9,6 @@
 * 在玩 godot 做小游戏
 * 正在寻找有趣的灵魂
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsdogx&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsdog&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsdogx&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsdog&layout=compact)
