@@ -1,6 +1,6 @@
 # *dicolo!* I'm **LSDog / 笑天犬** !
 
-![visitors](https://count.getloli.com/get/@LSDog_github?theme=rule34)
+![visitors](https://count.getloli.com/get/@LSDog_github?theme=rule34&darkmode=0)
 
 ### 投喂 / 发电 >> https://afdian.net/a/LSDog
 
